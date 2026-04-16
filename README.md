@@ -47,7 +47,7 @@ The model is trained using Random Forest and optimized for better performance.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository
 2. Install dependencies
@@ -55,7 +55,7 @@ The model is trained using Random Forest and optimized for better performance.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Hyperparameter tuning
 - Model optimization
 - Deploy as web app (Streamlit)
@@ -63,9 +63,9 @@ The model is trained using Random Forest and optimized for better performance.
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates the complete machine learning pipeline from data preprocessing to model evaluation and interpretation.
 
 ---
 
-⭐ If you like this project, give it a star!
+⭐ If you like this project, give it a star! ⭐
