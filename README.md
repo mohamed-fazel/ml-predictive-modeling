@@ -1,4 +1,4 @@
-##################################### Predictive Modeling using Machine Learning
+# Predictive Modeling using Machine Learning
 
 ## Project Overview
 This project focuses on building a machine learning model to predict outcomes based on input data using regression techniques.
